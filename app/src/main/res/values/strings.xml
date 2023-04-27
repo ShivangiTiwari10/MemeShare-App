@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Meme Share</string>
+    <string name="share">Share</string>
+    <string name="next">Next</string>
+    <string name="new_meme">New Meme</string>
+    <string name="todo">TODO</string>
+</resources>
